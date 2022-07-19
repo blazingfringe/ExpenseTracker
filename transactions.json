@@ -1,0 +1,146 @@
+[
+	{
+		"id": 25, 
+		"date": "01/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "Sony", 
+		"amount": 45999.49,
+		"type": "debit", 
+		"categoryId": 102, 
+		"category": "Hardware", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	},
+
+	{
+		"id": 45, 
+		"date": "02/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "JC", 
+		"amount": 153000.49,
+		"type": "credit", 
+		"categoryId": 501, 
+		"category": "PayChecque", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": false, 
+		"isEdited": false
+	},
+
+	{
+		"id": 35, 
+		"date": "04/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "Burger King", 
+		"amount": 842.49,
+		"type": "debit", 
+		"categoryId": 301, 
+		"category": "Restuarants", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	},
+
+	{
+		"id": 56, 
+		"date": "05/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "Jio Mart", 
+		"amount": 3244.49,
+		"type": "debit", 
+		"categoryId": 401, 
+		"category": "Groceries", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	},
+
+	{
+		"id": 23, 
+		"date": "04/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "Yellow Sapphire", 
+		"amount": 4532.49,
+		"type": "debit", 
+		"categoryId": 301, 
+		"category": "Restuarants", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	},
+
+	{
+		"id": 12, 
+		"date": "04/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "PVR", 
+		"amount": 1200.49,
+		"type": "debit", 
+		"categoryId": 502, 
+		"category": "Movies", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	},
+
+
+	{
+		"id": 21, 
+		"date": "04/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "Steam Games", 
+		"amount": 4900.49,
+		"type": "debit", 
+		"categoryId": 101, 
+		"category": "Software", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	},
+
+	{
+		"id": 46, 
+		"date": "02/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "JCs", 
+		"amount": 12000.49,
+		"type": "credit", 
+		"categoryId": 501, 
+		"category": "Gift Prize", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": false, 
+		"isEdited": false
+	},
+
+	{
+		"id": 27, 
+		"date": "01/7/2022", 
+		"institution": "Amity", 
+		"account": "Visa Amity", 
+		"merchant": "Sony", 
+		"amount": 15999.49,
+		"type": "debit", 
+		"categoryId": 102, 
+		"category": "Hardware", 
+		"isPending": false, 
+		"isTransfer": false, 
+		"isExpense": true, 
+		"isEdited": false
+	}
+]
